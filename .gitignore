@@ -3,6 +3,7 @@
 ### SublimeText ###
 # SublimeText project files
 *.sublime-workspace
+*.swp
 
 ### Node ###
 lib-cov
